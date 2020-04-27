@@ -1,5 +1,5 @@
 # Raspberry-Pi-WhatsApp 
-<h3><a href='http://www.youtube.com'>video de youtube con la explicacion<a><h3>
+<h3><a href='https://www.youtube.com/watch?v=QJJjG57jliA&list=LLApEHuhXA5oDKQq4N5NhQxA&index=2&t=672s'>video de youtube con la explicacion<a><h3>
 <h3>Instalación yowsup</h3>
 
 <pre>
